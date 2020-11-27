@@ -43,9 +43,9 @@ padding: 20px 16px;
 
 #bg{
 width: 100%;
-height: auto;
+height: 120;
 min-height: ; 
-padding-bottom: -120px;
+padding-bottom: -180px;
 position: cover; 
 margin: auto;
 border: solid none;
