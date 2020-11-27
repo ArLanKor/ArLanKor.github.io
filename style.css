@@ -43,7 +43,8 @@ padding: 20px 16px;
 
 #bg{
 width: 100%;
-min-height: 50em; 
+height: auto;
+min-height: ; 
 padding-bottom:120px;
 position: fixed; 
 margin: auto;
