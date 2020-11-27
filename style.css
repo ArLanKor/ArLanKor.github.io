@@ -43,10 +43,10 @@ padding: 20px 16px;
 
 #bg{
 width: 100%;
-height: 120;
+height: ;
 min-height: ; 
-padding-bottom: -180px;
-position: no-repeat center center fixed; 
+padding-bottom: 0px;
+position: fixed; 
 margin: auto;
 border: solid none;
 padding-top: -98%;
