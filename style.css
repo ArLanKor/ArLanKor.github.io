@@ -37,13 +37,10 @@ padding: 20px 16px;
 
 }
 
-#bg{
-position: absolute;
-background-size: cover;
-top: 25%;
-left: 25%;
-min-width: 100%;
-min-height: 100%;}
+
+.bgimg {
+    background-image: "https://arlankor.github.io/SouthTeton.jpg";
+}
 
 .row{ 
 padding-top: 100px; 
