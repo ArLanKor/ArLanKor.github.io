@@ -48,6 +48,7 @@ padding: 20px 16px;
 
 #bg{
 position: absolute;
+background-size: 150px;
 top: 25%;
 left: 25%;
 min-width: %;
