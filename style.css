@@ -7,6 +7,15 @@ align-items: center;
 height:100% 
 width: 100%; } 
 
+.backgroundimg{ 
+background-image: url( img src="https://arlankor.github.io/SouthTeton.jpg); 
+background-size: cover;
+background-position: center center; 
+background-repeat: no-repeat;
+height: 100vh;
+width: 100%;
+}
+
 
 .navbar{ background: #ffffff; 
 padding-left: 10px;
