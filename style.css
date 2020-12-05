@@ -51,8 +51,8 @@ position: absolute;
 background-size: cover;
 top: 25%;
 left: 25%;
-min-width: %;
-min-height: %;}
+min-width: 100%;
+min-height: 100%;}
 
 .row{ 
 padding-top: 100px; 
