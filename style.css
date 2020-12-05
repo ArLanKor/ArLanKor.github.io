@@ -47,15 +47,11 @@ padding: 20px 16px;
  font-size: 8px; } 
 
 #bg{
-width: 100%;
-height: ;
-min-height: ; 
-padding-bottom: 0px;
-position: fixed; 
-margin: auto;
-border: solid none;
-padding-top: -98%;
-margin-bottom: }
+position: fixed;
+top: 0;
+left: 0;
+min-width: 100%;
+min-height: 100%;}
 
 .row{ 
 padding-top: 100px; 
