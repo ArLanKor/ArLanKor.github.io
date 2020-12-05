@@ -8,7 +8,7 @@ height:100%
 width: 100%; } 
 
 .backgroundimg{ 
-background-image: url("https://arlankor.github.io/SouthTeton.jpg); 
+background-image: url(https://arlankor.github.io/SouthTeton.jpg); 
 background-size: cover;
 background-position: center center; 
 background-repeat: no-repeat;
