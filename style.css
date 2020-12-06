@@ -7,7 +7,7 @@ padding-left: 10px;
 }
 
 #bg{ width:100%
-min-height: 100vh;
+min-height: 50em;
 padding-bottom:;
 position: center center; 
 margin: auto; 
@@ -15,6 +15,11 @@ border: solid none;
 padding-top: 98%; 
 margin-bottom:; 
 
+background-image: url(https://arlankor.github.io/SouthTeton.jpg)
+background-repeat: no-repeat; 
+background-attachment: fixed; 
+background-position: center center 
+background-size: cover; 
 }
 
 
