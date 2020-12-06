@@ -10,7 +10,11 @@ width: %; }
 .container-fluid{
 background: center;
 background-repeat:no-repeat;
-background-position: center;}
+background-position: center;
+padding-top: 50px;
+padding-bottom: 25px;
+padding-left: 25px;
+padding-right: 25px;}
 
 .navbar{ background: #ffffff; 
 padding-left: 10px;
