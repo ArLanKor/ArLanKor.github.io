@@ -19,7 +19,7 @@ display:block;
 padding-right: 15px;
 }
 
-#home{ 
+.home{ 
 background: url(https://arlankor.github.io/SouthTeton.jpg) no-repeat center center fixed; 
 display: table; 
 height: 100%; 
