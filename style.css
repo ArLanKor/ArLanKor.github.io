@@ -17,7 +17,9 @@ height: 100vh;
 -webkit-background-size:cover; 
 background-size:cover;
 background-position: center center;
-position:relative;}
+position:relative;
+padding-left: 25%; 
+padding-right: 25%; }
 
 
 .navbar{ background: #ffffff; 
