@@ -7,19 +7,6 @@ align-items: center;
 height:% 
 width: %; } 
 
-.wrapper{
-width: 1170px; 
-margin:auto;}
-
-header{ 
-background: url("https://arlankor.github.io/SouthTeton.jpg"); 
-height: 100vh; 
--webkit-background-size:cover; 
-background-size: center;;
-background-position: center center;
-position:relative;
-padding-left: 18%; 
-padding-right: 18%; }
 
 
 .navbar{ background: #ffffff; 
