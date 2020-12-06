@@ -6,6 +6,18 @@ width: 100%; }
 padding-left: 10px;
 }
 
+#bg{ width:100%
+min-height: 100vh;
+padding-bottom:;
+position: center center; 
+margin: auto; 
+border: solid none; 
+padding-top: 98%; 
+margin-bottom:; 
+
+}
+
+
 .navbar-brand{ 
 min-height: 55px; 
 color: #000000; 
