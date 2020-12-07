@@ -4,17 +4,16 @@ width: 100%; }
 
 
 .navbar{ background:#ffffff;
- }
+ ; }
 
-.navbar-brand {
+ .navbar-brand {
   min-height: 55px;
   color: #000000;
   cursor: pointer
   background-repeat: no-repeat;
   padding-left: 10px;
- position: fixed;
 }
 
-.navbar-nav{ 
-float: right;
-display: block;}
+.navbar-default .navbar-nav li a{ 
+color:#000000; 
+display:block;}
