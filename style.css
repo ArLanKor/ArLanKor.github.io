@@ -21,12 +21,12 @@ font-size: 20px;
 
 .nav-links{ 
 display: flex;
-justify-content: flex-end;
+justify-content: space-around;
 width:30%
 }
 
 .navlinks li {
- list-style: none; 
+list-style: none; 
 }
 
 .nav-links a{ 
