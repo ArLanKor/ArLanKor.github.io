@@ -1,0 +1,32 @@
+html, body { 
+height: 100%
+width: 100%; }
+
+
+.navbar{ background:#ffffff;
+ ; }
+
+ .navbar-brand {
+  min-height: 55px;
+  color: #000000;
+  cursor: pointer
+  background-repeat: no-repeat;
+  padding-left: 10px;
+}
+
+.navbar-default .navbar-nav li a{ 
+color:#000000; 
+display:block;}
+
+.dropdown-menu{ 
+position: relative;
+display: inline-block; }
+
+.dropdown-menu{ 
+display: none;
+position: absolute;
+min-width: 150px;
+z-index: 1;
+padding: 20px 16px; 
+
+}
