@@ -17,3 +17,18 @@ width: 100%; }
 .navbar-default .navbar-nav li a{ 
 color:#000000; 
 display:block;}
+
+
+
+.dropdown-menu{ 
+position: relative;
+display: inline-block; }
+
+.dropdown-menu{ 
+display: none;
+position: absolute;
+min-width: 150px;
+z-index: 1;
+padding: 20px 16px; 
+
+}
