@@ -46,3 +46,9 @@ height: 3px;
 background-color: rgb(226, 226, 226);
 margin: 5px;
 }
+
+@media screen and (max-width: 768px){
+  body{
+  display: none;}
+
+}
